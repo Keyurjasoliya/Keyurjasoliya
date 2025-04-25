@@ -32,14 +32,12 @@
 🕹️ Developed a live monitoring system in Power BI with OEE, downtime, and shift performance KPIs  
 🧠 Integrated simulated factory sensor data using Python  
 📊 Connected to SQL back-end for automated KPI tracking  
-📁 **[See project](#)** *(coming soon)*
 
 ---
 
 ### 🛠️ Automated Reporting & Maintenance Tool
 💻 Built a desktop app to track fault reports and generate daily maintenance logs  
 📫 Enabled auto-emailing of PDF reports using Python  
-📁 **[See project](#)** *(coming soon)*
 
 ---
 
